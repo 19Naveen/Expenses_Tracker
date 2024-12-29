@@ -1,15 +1,15 @@
 
 # Expense Tracker
 
-## Overview
-Expense Tracker is a simple Python application that allows users to manage their daily expenses. It utilizes SQLite to store data, with features such as adding, viewing, and deleting expenses. The application is implemented using Object-Oriented Programming (OOP) principles.
+##Overview
+Expense Tracker is a simple Python application that allows users to manage their daily expenses. It utilizes SQLite to store data, with features such as adding, viewing, and deleting expenses. The application is implemented using Object-Oriented Programming (OOP)  principles.
 
 ## Features
 - Add new expenses with details such as name, category, price, description, and date
 - Display all expenses
 - Delete expenses based on a unique identifier (`exp_id`)
 - Validate the date format (`YYYY-MM-DD`) before adding an expense
-- Supports auto-incrementing `exp_id` for each new expense
+- Supports auto-incrementing `exp_id` for each new expense.
 
 ## Technologies Used
 - **Python 3.x**: The programming language used
